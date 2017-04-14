@@ -1,0 +1,12 @@
+{
+  "name": "KukarekaTV server",
+  "description": "Kukareka TV server",
+  "author": {
+    "name": "Eduards Gruberts",
+    "email": "eduards.gruberts@gmail.com"
+  },
+  "version": "0.1",
+  "dependencies": {
+    "websocket": "~1.0.22"
+  }
+}

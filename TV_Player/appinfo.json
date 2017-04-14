@@ -1,0 +1,29 @@
+{
+    "id": "com.home.kukarekatv",
+    "version": "0.1.1",
+    "uiRevision": 2,
+    "vendor": "Home",
+    "type": "web",
+    "main": "index.html",
+    "title": "Kukareka player",
+    "appDescription": "Kukareka player",
+    
+    "icon": "icon.png",
+    "largeIcon": "largeIcon.png",
+    "iconColor": "#69CDFF",
+    
+    "bgColor": "#69CDFF",
+    "bgImage": "Movies-icon-BG.png",
+    
+    /*"splashBackground": "app_bg2_1920x1080.png",*/
+
+    "enyoVersion": "2.3.0",
+    "onDeviceSource": {
+        "enyo": "$enyo-framework/2.3.0/enyo",
+        "lib/layout": "$enyo-framework/2.3.0/lib/layout",
+        "lib/moonstone": "$enyo-framework/2.3.0/lib/moonstone",
+        "lib/spotlight": "$enyo-framework/2.3.0/lib/spotlight",
+        "lib/enyo-webos": "$enyo-framework/2.3.0/lib/enyo-webos",
+        "lib/enyo-ilib": "$enyo-framework/2.3.0/lib/enyo-ilib"
+    }
+}
